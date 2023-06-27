@@ -54,3 +54,5 @@ Currently this plugin supports only for following chart types
 
 Free version allows you to create one chart.
 With pro version of this plugin you can create unlimited charts - https://codecanyon.net/item/wpecharts-apache-echarts-integration-for-wordpress/46227240
+
+Read this article to know about Apche Echarts - https://medium.com/@kodikaramalith/best-data-visualization-for-website-owners-using-apache-echarts-46d70883c4df
